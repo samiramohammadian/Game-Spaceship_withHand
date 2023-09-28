@@ -1,5 +1,3 @@
-
-https://github.com/samiramohammadian/Game-Spaceship_withHand/assets/87034655/6c31d54e-e1a1-4d60-80c1-41f4b14c96bc
 # Spaceship Game with Hand Tracking
 
 This is a simple spaceship game where you control the spaceship using hand gestures detected by the Mediapipe library. Your goal is to avoid obstacles and shoot down targets while accumulating the highest score possible.
